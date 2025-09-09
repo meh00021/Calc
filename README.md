@@ -1,7 +1,7 @@
 # Using the dc calculator
 **========================**
 
-The dc program is a calculaotr app. It supports a variety of 
+The 'dc' program is a calculaotr app. It supports a variety of 
 calculations including:
 According to the "manual page" or man page" on Unix: the dc calculator is:
 
@@ -10,9 +10,9 @@ According to the "manual page" or man page" on Unix: the dc calculator is:
 > stack and the user opertaers te calculations.
 
 * add
--subtract
--multiply
--divide
+* subtract
+* multiply
+* divide
 Can add asterisks to create bullet points
 To use a reverse polish calculator, you enter the numbers first
 and then the operation.
@@ -23,6 +23,6 @@ you would do this:
 1. Enter to clear the memory.
 1. Enter the number 6 
 2. Enter the number 7
-3. Enter an asterisk to multiply 
+3. Enter an * to multiply 
 4. Enter p to print the result
 
