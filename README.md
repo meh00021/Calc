@@ -5,7 +5,7 @@ The 'dc' program is a calculaotr app. It supports a variety of
 calculations including:
 According to the "manual page" or man page" on Unix: the dc calculator is:
 
-> dc(1) is a command line desk calc app. 
+> 'dc' (1) is a command line desk calc app. 
 > It uses a reverse polish notation number, where it is stored in a
 > stack and the user opertaers te calculations.
 
